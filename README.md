@@ -145,6 +145,10 @@ https://play.google.com/store/apps/details?id=com.LaertJansen.MeowTime&hl=en
 
 <img width="1280" height="720" alt="Cats_1280" src="https://github.com/user-attachments/assets/21cfc78d-9150-49ef-884b-ae6f82cda490" />
 
+<img width="1280" height="720" alt="Cat1_1280" src="https://github.com/user-attachments/assets/6df59aca-946c-4789-b739-61862e67031a" />
+
+<img width="1280" height="720" alt="Cat2_1280" src="https://github.com/user-attachments/assets/8e917a2a-5383-49b1-8596-5d918dfde226" />
+
 A few other projects, hosted in their own repositories, include:
 
 A Chat With Saudade
@@ -190,6 +194,103 @@ https://github.com/laertjansen/CosmicRoads
 <img width="1920" height="1080" alt="Screenshot8" src="https://github.com/user-attachments/assets/53ed3fbf-4feb-49c9-b3ed-5d9462bd5fe0" />
 
 <img width="1920" height="1080" alt="Screenshot7" src="https://github.com/user-attachments/assets/24b6029d-43e2-43f3-9d26-fb5733cc63f9" />
+
+Samsung Galaxy Watch7
+
+I've also created and developed some watch faces for the Samsung Galaxy Watch7.
+
+These loops were created in TouchDesigner and refined in After Effects.
+
+<img width="470" height="264" alt="EpicenterWatch" src="https://github.com/user-attachments/assets/7f56b254-7330-4727-83c2-079756a6242d" />
+
+<img width="470" height="264" alt="8Bit" src="https://github.com/user-attachments/assets/dca86db6-a5aa-4301-ae91-873e3e477b9d" />
+
+<img width="470" height="264" alt="Rainbow" src="https://github.com/user-attachments/assets/5478384b-a729-497e-b8bb-d7aa3c5cb256" />
+
+<img width="470" height="264" alt="Lightning" src="https://github.com/user-attachments/assets/351cd206-7255-4745-a4ae-bb85ca5ecc0f" />
+
+<img width="470" height="264" alt="RedCellsWatch" src="https://github.com/user-attachments/assets/3896e483-eeae-40e6-8ea9-c58cbc7bd3ef" />
+
+<img width="470" height="264" alt="RunnerWatch" src="https://github.com/user-attachments/assets/f81313e7-2906-4e99-b8bf-874ae4c8ac72" />
+
+<img width="470" height="264" alt="VintageWatch" src="https://github.com/user-attachments/assets/5c344cce-8e14-4f24-86fc-2e2babee27a9" />
+
+<img width="470" height="264" alt="Glitch" src="https://github.com/user-attachments/assets/41a6601c-3e75-4505-9c08-8fabfe9dacec" />
+
+2D/3D Concepts
+
+Lastly, these are some visual and motion concepts I developed over the past few years, created mainly with Unreal Engine, TouchDesigner, Cinema 4D, Photoshop and After Effects.
+
+<img width="470" height="264" alt="Gif20" src="https://github.com/user-attachments/assets/7fa3fde6-137d-4062-a4ba-8a4a0e9a05da" />
+
+<img width="470" height="264" alt="Gif38" src="https://github.com/user-attachments/assets/510228bc-9ff1-402f-a4e5-2aac22e6baa5" />
+
+<img width="470" height="264" alt="YourGem" src="https://github.com/user-attachments/assets/39a5ffd9-cfe4-42ed-ad80-d368589c2a94" />
+
+<img width="470" height="264" alt="Gif47" src="https://github.com/user-attachments/assets/51ca895c-1c64-4b91-933d-7c7a9288053a" />
+
+<img width="470" height="264" alt="TheGem" src="https://github.com/user-attachments/assets/9726689a-5904-4b6f-b0c4-94460168acb5" />
+
+<img width="470" height="264" alt="Gif6" src="https://github.com/user-attachments/assets/7c5523f0-31c6-4ad9-87fb-41c0188e148a" />
+
+<img width="470" height="264" alt="Gif15" src="https://github.com/user-attachments/assets/1ccb961e-a4c6-40f9-98bd-15192ee08b5d" />
+
+<img width="470" height="264" alt="Gif35" src="https://github.com/user-attachments/assets/913d2924-7971-4d03-be43-6689b7559d3f" />
+
+<img width="470" height="264" alt="Gif43" src="https://github.com/user-attachments/assets/3bb41330-afef-4f13-850a-4bd1b838855a" />
+
+<img width="470" height="264" alt="Gif52" src="https://github.com/user-attachments/assets/0cea5bf3-ec20-4a12-a2d0-de20c0251969" />
+
+<img width="470" height="264" alt="Gif54" src="https://github.com/user-attachments/assets/62f6dcf9-4f61-49a5-b1f0-c8c121488929" />
+
+<img width="470" height="264" alt="Gif50" src="https://github.com/user-attachments/assets/075320fb-8664-4169-933e-ae3c005b1609" />
+
+<img width="470" height="264" alt="Gif46" src="https://github.com/user-attachments/assets/9bf531ea-21ed-40b9-addc-d8def409a226" />
+
+<img width="470" height="264" alt="Gif32" src="https://github.com/user-attachments/assets/5c9ac3d8-52f8-499f-85a9-d69f9e0afacc" />
+
+<img width="470" height="264" alt="Gif57" src="https://github.com/user-attachments/assets/39bdec10-116e-4a46-87ae-4672b299b77f" />
+
+<img width="470" height="264" alt="Gif41" src="https://github.com/user-attachments/assets/ffc36e85-ec41-4655-a408-52f8e47d847d" />
+
+<img width="470" height="264" alt="Gif25" src="https://github.com/user-attachments/assets/3f85943e-daee-40d7-a27d-2034be3b8d6c" />
+
+<img width="470" height="264" alt="Gif48" src="https://github.com/user-attachments/assets/79f50702-9ddc-47f2-9dae-4de8c9c41a7c" />
+
+<img width="470" height="264" alt="Gif49" src="https://github.com/user-attachments/assets/6608341f-6a64-4d86-8746-cb5f1eb07479" />
+
+<img width="470" height="264" alt="Gif3" src="https://github.com/user-attachments/assets/7a3070e2-248d-4bad-8462-c3f0db725f4b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
