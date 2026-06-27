@@ -237,6 +237,8 @@ Lastly, these are some visual and motion concepts I developed over the past few 
 
 <img width="470" height="264" alt="Gif35" src="https://github.com/user-attachments/assets/913d2924-7971-4d03-be43-6689b7559d3f" />
 
+<img width="470" height="264" alt="Gif49" src="https://github.com/user-attachments/assets/6608341f-6a64-4d86-8746-cb5f1eb07479" />
+
 <img width="470" height="264" alt="Gif43" src="https://github.com/user-attachments/assets/3bb41330-afef-4f13-850a-4bd1b838855a" />
 
 <img width="470" height="264" alt="Gif52" src="https://github.com/user-attachments/assets/0cea5bf3-ec20-4a12-a2d0-de20c0251969" />
@@ -256,8 +258,6 @@ Lastly, these are some visual and motion concepts I developed over the past few 
 <img width="470" height="264" alt="Gif25" src="https://github.com/user-attachments/assets/3f85943e-daee-40d7-a27d-2034be3b8d6c" />
 
 <img width="470" height="264" alt="Gif48" src="https://github.com/user-attachments/assets/79f50702-9ddc-47f2-9dae-4de8c9c41a7c" />
-
-<img width="470" height="264" alt="Gif49" src="https://github.com/user-attachments/assets/6608341f-6a64-4d86-8746-cb5f1eb07479" />
 
 <img width="470" height="264" alt="Gif3" src="https://github.com/user-attachments/assets/7a3070e2-248d-4bad-8462-c3f0db725f4b" />
 
