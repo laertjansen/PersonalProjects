@@ -30,6 +30,8 @@ https://laertjansen.itch.io/pupilla
 
 <img width="1920" height="1080" alt="Pupilla_Screen5" src="https://github.com/user-attachments/assets/5a04e85f-2c8f-428c-a8a4-0e62e41b4cd9" />
 
+<img width="1280" height="720" alt="PupillaFrame" src="https://github.com/user-attachments/assets/0e363ca0-cc99-4bfe-83a1-4d73b73509ce" />
+
 Kill No 1
 
 Kill No 1 is a playful prototype I developed in Unity, inspired by physical tabletop games like pick-up sticks, Jumping Pirate, and wooden block stacking games. 
@@ -58,6 +60,10 @@ https://laertjansen.itch.io/le-art
 
 <img width="1280" height="720" alt="Real_1280" src="https://github.com/user-attachments/assets/eafcbf4c-f806-444a-bc49-2dc3afe06bdb" />
 
+<img width="1280" height="720" alt="Pattern_1" src="https://github.com/user-attachments/assets/0ec3510f-db2e-41ad-87c5-7623a94df95e" />
+
+<img width="3840" height="2160" alt="Pattern2" src="https://github.com/user-attachments/assets/a8e66ab3-c121-470e-89f2-a4987b0df1dd" />
+
 Namu
 
 An interactive scene built in Unreal Engine where visitors are invited to care for the last surviving trees on Earth by watering them.
@@ -67,6 +73,8 @@ https://laertjansen.itch.io/namu-dark-trees
 <img width="1920" height="1080" alt="Namu_Screenshot2" src="https://github.com/user-attachments/assets/c34212eb-f726-4f73-9e2b-71dd51ca03fd" />
 
 <img width="1920" height="1080" alt="Namu_Screenshot1" src="https://github.com/user-attachments/assets/6d189bf9-16a3-40fb-bf8a-cafcdbd3faaf" />
+
+<img width="1920" height="1080" alt="Namu_Screenshot5" src="https://github.com/user-attachments/assets/a12591a5-19ba-454b-a8bf-a9eaf6ed6785" />
 
 The Pet Club
 
@@ -140,6 +148,8 @@ https://play.google.com/store/apps/details?id=com.LaertJansen.TheArtverse&hl=en
 <img width="1280" height="720" alt="MyArtVerse_3" src="https://github.com/user-attachments/assets/40fd4016-475b-40a7-b6de-65426e8b4bef" />
 
 <img width="1280" height="720" alt="MyArtVerse_12" src="https://github.com/user-attachments/assets/1c72599e-754e-4e98-a321-d2eb3845d179" />
+
+<img width="1280" height="720" alt="MyArtVerse_10" src="https://github.com/user-attachments/assets/cf4e9b9b-91fc-440c-8282-450c5861d810" />
 
 <img width="1280" height="720" alt="MyArtVerse_6" src="https://github.com/user-attachments/assets/6b3f341e-bee0-409a-9d8f-1bf01377487f" />
 
