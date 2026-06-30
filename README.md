@@ -293,6 +293,9 @@ These are some motion concepts, VR experiences, and 3D interaction experiments I
 
 <img width="470" height="264" alt="VRDrivingAnim_10" src="https://github.com/user-attachments/assets/a0c0624c-63c7-4ae7-9982-4ccef3eb73c5" />
 
+<img width="470" height="264" alt="TV_Glitch" src="https://github.com/user-attachments/assets/560f01c3-fde6-47fe-bc2a-e79274bbd2e0" />
+
+<img width="470" height="264" alt="ImmersiveAnim_9" src="https://github.com/user-attachments/assets/5239b6b7-f27b-48bd-8e66-88820daf928c" />
 
 
 
