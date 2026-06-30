@@ -130,9 +130,13 @@ A simple retro shoot'em up featuring fast-paced gameplay, pixelated explosions, 
 
 https://laertjansen.itch.io/space-jitters
 
+<img width="1280" height="720" alt="SpaceJitters_Atari_1" src="https://github.com/user-attachments/assets/28ab00ee-ba42-4487-ae73-aa39818d70b7" />
+
 <img width="1280" height="720" alt="HandPhone_6" src="https://github.com/user-attachments/assets/df230d03-dd6d-414a-a205-d851a2641df7" />
 
 <img width="1920" height="1080" alt="GameScreen_9_1920" src="https://github.com/user-attachments/assets/cb12278d-dfd2-4082-b891-0ed09c6f61f6" />
+
+<img width="1280" height="720" alt="Unity_Screenshot_1280" src="https://github.com/user-attachments/assets/05728fd3-e360-4aa7-a971-99c6160a7b19" />
 
 My Artverse
 
