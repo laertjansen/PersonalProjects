@@ -42,6 +42,8 @@ https://laertjansen.itch.io/kill-no-1
 
 <img width="1920" height="1080" alt="Kill_No_1_Game_1" src="https://github.com/user-attachments/assets/5b97f3fc-c7ea-4e67-a430-48251f35da07" />
 
+<img width="1280" height="720" alt="Kill_No_1_Code" src="https://github.com/user-attachments/assets/5e0350d6-ba42-44ca-b7dc-67546b50f756" />
+
 Le Art
 
 Lucky me just by swapping the letters ‘A’ and ‘E’ in my name, ‘Laert’ becomes ‘Le Art’. That’s what I’m calling this virtual exhibition, showcasing artwork created between 2012 and 2024.
@@ -83,6 +85,8 @@ The Pet Club
 Follow the journey of Sunny as she visits a shelter and forms a special connection with a lonely puppy.
 
 https://laertjansen.itch.io/the-pet-club
+
+<img width="1280" height="720" alt="PersonalGames_1280_4" src="https://github.com/user-attachments/assets/68558aeb-c719-4879-b0c9-5180515397bf" />
 
 <img width="1920" height="1080" alt="ThePetClub_1" src="https://github.com/user-attachments/assets/6e6d0b47-c3f5-4b81-ac20-213d1a319305" />
 
@@ -220,6 +224,8 @@ https://github.com/laertjansen/CosmicRoads
 <img width="1920" height="1080" alt="Screenshot8" src="https://github.com/user-attachments/assets/53ed3fbf-4feb-49c9-b3ed-5d9462bd5fe0" />
 
 <img width="1920" height="1080" alt="Screenshot7" src="https://github.com/user-attachments/assets/24b6029d-43e2-43f3-9d26-fb5733cc63f9" />
+
+<img width="2560" height="1440" alt="VRDriving_1" src="https://github.com/user-attachments/assets/03b88e80-893f-4b16-addb-99839ec70564" />
 
 Samsung Galaxy Watch7
 
